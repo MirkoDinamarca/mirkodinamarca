@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**MirkoDinamarca/mirkodinamarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! 👋, soy Mirko Dinamarca</h1>
 
-Here are some ideas to get you started:
+<h3> 📝 Estudiante de la Tecnicatura Universitaria en Desarrollo Web</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 💻 Me ejerzo en el Desarrollo Frontend y Backend.</h3>
+
+<h3> 🌱 Actualmente estoy aprendiendo Desarrollo Web Full-stack.</h3>
+
+<h3> 🎯 Estoy trabajando para mejorar mis habilidades de resolución de problemas.</h3>
+
+<h3> 👨‍💻 Algunos de mis proyectos se encuentran en netlify.</h3>
+
+<h3> 💬 Podés preguntarme acerca de Frontend, Backend, PHP, JS, blogs, música.</h3>
+
+<h3> 📫 ¿Cómo contactar conmigo? dinamarcamirko.19@gmail.com</h3>
