@@ -1,20 +1,12 @@
 <h1 align="center">👋 Hi! I'm Mirko Dinamarca</h1>
-💫 About Me:
-<br>
+<h2>💫 About Me:</h2>
 <h3>🔭 I am currently a student of a university degree in web development.</h3>
-<br>
 <h3>💻 I work in Frontend and Backend Development.</h3>
-<br>
 <h3>🌱 I am currently learning Full-stack Web Development.</h3>
-<br>
 <h3>🤝 I am working to improve my problem-solving skills.</h3>
-<br>
 <h3>💻 Some of my projects can be found on netlify.</h3>
-<br>
 <h3>💬 You can ask me about Frontend, Backend, PHP, JS, blogs, music.</h3>
-<br>
 <h3>📫 How to contact me? dinamarcamirko.19@gmail.com</h3>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirko-dinamarca) 
