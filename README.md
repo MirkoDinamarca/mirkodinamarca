@@ -1,6 +1,19 @@
-
-# 💫 About Me:
-<h1 align="center">👋 Hi! I'm Mirko Dinamarca</h1><br>🔭 I am currently a student of a university degree in web development.<br>💻 I work in Frontend and Backend Development.<br>🌱 I am currently learning Full-stack Web Development.<br>🤝 I am working to improve my problem-solving skills.<br>💻 Some of my projects can be found on netlify.<br>💬 You can ask me about Frontend, Backend, PHP, JS, blogs, music.<br>📫 How to contact me? dinamarcamirko.19@gmail.com
+<h1 align="center">👋 Hi! I'm Mirko Dinamarca</h1>
+💫 About Me:
+<br>
+<h3>🔭 I am currently a student of a university degree in web development.</h3>
+<br>
+<h3>💻 I work in Frontend and Backend Development.</h3>
+<br>
+<h3>🌱 I am currently learning Full-stack Web Development.</h3>
+<br>
+<h3>🤝 I am working to improve my problem-solving skills.</h3>
+<br>
+<h3>💻 Some of my projects can be found on netlify.</h3>
+<br>
+<h3>💬 You can ask me about Frontend, Backend, PHP, JS, blogs, music.</h3>
+<br>
+<h3>📫 How to contact me? dinamarcamirko.19@gmail.com</h3>
 
 
 ## 🌐 Socials:
@@ -15,21 +28,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MirkoDinamarca&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h1 align="center">¡Hola! 👋, soy Mirko Dinamarca</h1>
-
-<h3> 📝 Estudiante de la Tecnicatura Universitaria en Desarrollo Web</h3>
-
-<h3> 💻 Me ejerzo en el Desarrollo Frontend y Backend.</h3>
-
-<h3> 🌱 Actualmente estoy aprendiendo Desarrollo Web Full-stack.</h3>
-
-<h3> 🎯 Estoy trabajando para mejorar mis habilidades de resolución de problemas.</h3>
-
-<h3> 👨‍💻 Algunos de mis proyectos se encuentran en netlify.</h3>
-
-<h3> 💬 Podés preguntarme acerca de Frontend, Backend, PHP, JS, blogs, música.</h3>
-
-<h3> 📫 ¿Cómo contactar conmigo? dinamarcamirko.19@gmail.com</h3>
