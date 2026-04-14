@@ -1,6 +1,6 @@
 ### Hey, I'm Mirko 👋🏽  
 
-I'm a 24-year-old developer based in Argentina, with a specialized focus in the oil & gas sector. Passionate about learning, I constantly seek opportunities to grow professionally and apply new skills in developing innovative solutions.
+I'm a 26-year-old developer based in Argentina, with a specialized focus in the oil & gas sector. Passionate about learning, I constantly seek opportunities to grow professionally and apply new skills in developing innovative solutions.
 
 ## 📦 Toolbox
 
